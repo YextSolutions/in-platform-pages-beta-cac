@@ -30,7 +30,7 @@ yext init [Yext account id]
 3.  Push the resources to your account
 
 ```
-yext resources apply
+yext resources apply cac
 ```
 
 You are now ready to start beta'ing the new in-platform, Yext Pages experience!
