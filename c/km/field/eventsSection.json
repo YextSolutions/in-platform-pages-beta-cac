@@ -1,0 +1,14 @@
+{
+  "$id": "c_eventsSection",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Events Section",
+  "group": "NONE",
+  "localization": "OVERRIDABLE",
+  "typeId": "eventsSection",
+  "writeScopes": [
+    "APP",
+    "CONNECTOR",
+    "USER",
+    "YEXT"
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "$id": "3344327190862991568",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Sunset Beach",
+      "countryCode": "US",
+      "line1": "75 Clubhouse Road",
+      "postalCode": "28468",
+      "region": "NC"
+    },
+    "addressHidden": false,
+    "c_heroSection": {
+      "image": {
+        "height": 2381,
+        "sourceUrl": "https://images.unsplash.com/photo-1505275350441-83dcda8eeef5?q\u003d80\u0026w\u003d3174\u0026auto\u003dformat\u0026fit\u003dcrop\u0026ixlib\u003drb-4.1.0\u0026ixid\u003dM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "thumbnails": [
+          {
+            "height": 2381,
+            "url": "https://a.mktgcdn.com/p/sUcttm3hoqm3LQC-nnnQGApD5P8oJFNsg1QFo4GcuUw/3174x2381.webp",
+            "width": 3174
+          },
+          {
+            "height": 1425,
+            "url": "https://a.mktgcdn.com/p/sUcttm3hoqm3LQC-nnnQGApD5P8oJFNsg1QFo4GcuUw/1900x1425.webp",
+            "width": 1900
+          },
+          {
+            "height": 464,
+            "url": "https://a.mktgcdn.com/p/sUcttm3hoqm3LQC-nnnQGApD5P8oJFNsg1QFo4GcuUw/619x464.webp",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p/sUcttm3hoqm3LQC-nnnQGApD5P8oJFNsg1QFo4GcuUw/600x450.webp",
+            "width": 600
+          },
+          {
+            "height": 147,
+            "url": "https://a.mktgcdn.com/p/sUcttm3hoqm3LQC-nnnQGApD5P8oJFNsg1QFo4GcuUw/196x147.webp",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/sUcttm3hoqm3LQC-nnnQGApD5P8oJFNsg1QFo4GcuUw/3174x2381.webp",
+        "width": 3174
+      },
+      "primaryCta": {
+        "label": "Get Directions",
+        "link": "yext.com",
+        "linkType": "OTHER"
+      },
+      "secondaryCta": {
+        "label": "Order Pickup",
+        "link": "yext.com",
+        "linkType": "OTHER"
+      }
+    },
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "22:00",
+            "start": "06:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "22:00",
+            "start": "06:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "22:00",
+            "start": "06:00"
+          }
+        ]
+      },
+      "sunday": {
+        "openIntervals": [
+          {
+            "end": "22:00",
+            "start": "06:00"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "22:00",
+            "start": "06:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "22:00",
+            "start": "06:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "22:00",
+            "start": "06:00"
+          }
+        ]
+      }
+    },
+    "mainPhone": "+18007646171",
+    "name": "Yext Roasters",
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "labels": []
+}

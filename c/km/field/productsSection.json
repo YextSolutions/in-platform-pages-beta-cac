@@ -1,0 +1,14 @@
+{
+  "$id": "c_productsSection",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Products Section",
+  "group": "NONE",
+  "localization": "OVERRIDABLE",
+  "typeId": "productsSection",
+  "writeScopes": [
+    "APP",
+    "CONNECTOR",
+    "USER",
+    "YEXT"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "$id": "c_promoSection",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Promo Section",
+  "group": "NONE",
+  "localization": "OVERRIDABLE",
+  "typeId": "promoSection",
+  "writeScopes": [
+    "APP",
+    "CONNECTOR",
+    "USER",
+    "YEXT"
+  ]
+}

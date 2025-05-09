@@ -1,0 +1,123 @@
+{
+  "$id": "518441532768433774",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "address": {
+      "city": "Pittsburgh",
+      "countryCode": "US",
+      "line1": "225 Fifth Avenue",
+      "postalCode": "15222",
+      "region": "PA"
+    },
+    "addressHidden": false,
+    "c_heroSection": {
+      "image": {
+        "height": 1961,
+        "sourceUrl": "https://images.unsplash.com/photo-1493857671505-72967e2e2760?q\u003d80\u0026w\u003d2940\u0026auto\u003dformat\u0026fit\u003dcrop\u0026ixlib\u003drb-4.1.0\u0026ixid\u003dM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "thumbnails": [
+          {
+            "height": 1961,
+            "url": "https://a.mktgcdn.com/p/LkgCyQBh1-VLG-BfsIOxoYB3YTwNr8CrJYHSx7yJf30/2940x1961.webp",
+            "width": 2940
+          },
+          {
+            "height": 1267,
+            "url": "https://a.mktgcdn.com/p/LkgCyQBh1-VLG-BfsIOxoYB3YTwNr8CrJYHSx7yJf30/1900x1267.webp",
+            "width": 1900
+          },
+          {
+            "height": 413,
+            "url": "https://a.mktgcdn.com/p/LkgCyQBh1-VLG-BfsIOxoYB3YTwNr8CrJYHSx7yJf30/619x413.webp",
+            "width": 619
+          },
+          {
+            "height": 400,
+            "url": "https://a.mktgcdn.com/p/LkgCyQBh1-VLG-BfsIOxoYB3YTwNr8CrJYHSx7yJf30/600x400.webp",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "https://a.mktgcdn.com/p/LkgCyQBh1-VLG-BfsIOxoYB3YTwNr8CrJYHSx7yJf30/196x131.webp",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/LkgCyQBh1-VLG-BfsIOxoYB3YTwNr8CrJYHSx7yJf30/2940x1961.webp",
+        "width": 2940
+      },
+      "primaryCta": {
+        "label": "Get Directions",
+        "link": "yext.com",
+        "linkType": "OTHER"
+      },
+      "secondaryCta": {
+        "label": "Order Pickup",
+        "link": "yext.com",
+        "linkType": "OTHER"
+      }
+    },
+    "hours": {
+      "friday": {
+        "openIntervals": [
+          {
+            "end": "22:00",
+            "start": "06:00"
+          }
+        ]
+      },
+      "monday": {
+        "openIntervals": [
+          {
+            "end": "22:00",
+            "start": "06:00"
+          }
+        ]
+      },
+      "saturday": {
+        "openIntervals": [
+          {
+            "end": "22:00",
+            "start": "06:00"
+          }
+        ]
+      },
+      "sunday": {
+        "openIntervals": [
+          {
+            "end": "22:00",
+            "start": "06:00"
+          }
+        ]
+      },
+      "thursday": {
+        "openIntervals": [
+          {
+            "end": "22:00",
+            "start": "06:00"
+          }
+        ]
+      },
+      "tuesday": {
+        "openIntervals": [
+          {
+            "end": "22:00",
+            "start": "06:00"
+          }
+        ]
+      },
+      "wednesday": {
+        "openIntervals": [
+          {
+            "end": "22:00",
+            "start": "06:00"
+          }
+        ]
+      }
+    },
+    "mainPhone": "+14127622000",
+    "name": "Yext Roasters",
+    "timezone": "America/New_York"
+  },
+  "entityType": "location",
+  "labels": []
+}

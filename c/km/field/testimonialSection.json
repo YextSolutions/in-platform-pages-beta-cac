@@ -1,0 +1,14 @@
+{
+  "$id": "c_testimonialSection",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Testimonial Section",
+  "group": "NONE",
+  "localization": "OVERRIDABLE",
+  "typeId": "testimonialsSection",
+  "writeScopes": [
+    "APP",
+    "CONNECTOR",
+    "USER",
+    "YEXT"
+  ]
+}

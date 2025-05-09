@@ -1,0 +1,14 @@
+{
+  "$id": "c_heroSection",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Hero Section",
+  "group": "NONE",
+  "localization": "OVERRIDABLE",
+  "typeId": "heroSection",
+  "writeScopes": [
+    "APP",
+    "CONNECTOR",
+    "USER",
+    "YEXT"
+  ]
+}
